@@ -1,0 +1,9 @@
+body{
+            margin: 50px 50px 50px 50px;
+            background: lightblue;
+            color: red;
+            font-size: 30px;
+            line-height: 200%;
+            border: 5px solid red;
+            padding: 25px 25px 25px 25px;
+          }
